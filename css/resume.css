@@ -108,9 +108,10 @@ section.resume-section {
 }
 
 .text-primary {
-  color: #BD5D38 !important; }
-
+    color: #811d4e!important;
+}
 a {
-  color: #BD5D38; }
+    color: #811d4e;
+}
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color:  #811d4e;  }
